@@ -6,7 +6,8 @@
     "sourceMap": false,
     "noImplicitAny": false,
     "noEmitOnError":false,
-    "typeRoots": ["node_modules/@types"]
+    "typeRoots": ["node_modules/@types"],
+    "esModuleInterop": true
   },
   "include": [
     "**/*.ts",
